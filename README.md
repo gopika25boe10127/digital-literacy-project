@@ -86,7 +86,7 @@ Cybercrime Case Study
 
 I took a look at a specific online threat and wrote about it in the following directory:
 
-task-5-cybercrime/casestudy.txt
+task-5-casestudy.pdf
 
 I focused on UPI and Online Payment Fraud.
 
@@ -104,7 +104,7 @@ Stay Safe Online Checklist
 
 I made a list of ways for college students to stay safe online. You can find it in:
 
-task-5-cybercrime/prevention-checklist.txt
+task-5-prevention-checklist.txt
 
 Here are some important things to do to stay safe:
 
