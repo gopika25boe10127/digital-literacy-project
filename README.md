@@ -13,9 +13,8 @@ As a Digital Ambassador, I designed a visual resource to educate my peers on the
 * **Hierarchy:** Highlighting "Survival Skills" like Email Etiquette and Online Safety.
 * **Tools:** Developed using **Canva** to ensure a professional and modern aesthetic.
 
-### Folder Contents
-[**Task 1**](./task-1-presentation)
-* `Infographic.png`: The final high-resolution design.
+### Folder:
+* [**Task 1**](./task-1-presentation)
 
 
 # TASK 02
@@ -30,14 +29,10 @@ This task involved establishing a professional digital presence across three ind
 * **GitHub:** https://github.com/gopika25boe10127 — Repository for my bio-coding projects.
 * **Kaggle:** https://www.kaggle.com/gopikapmenon — Platform for biological data science.
 
-### Folder Contents
-* `Linkedin.png`: Screenshot of the optimized professional profile.
-* `GitHub.png`: Screenshot of the repository setup.
-* `Kaggle.png`: Screenshot of the data science account.
+### Folder:
+* [**Task 2**](./task-2-portfolios)
 
-* All the profile given in: task-2-portfolio/
 
-  
 
 # TASK 03
 
@@ -49,10 +44,8 @@ This task demonstrates technical proficiency through competitive coding and clou
 ### Project Links
 * **Digital Literacy Awareness Quiz:** https://docs.google.com/forms/d/e/1FAIpQLScsLNizRLoRkpo5lEnAjMwAsjCYUJ2rCayzZdMl42h2v4oZYA/viewform — A 5-question awareness tool for batchmates.
 
-### Folder Contents
-* `HackerRank.png`: Verification of completed coding challenges.
-* `Google-Form.png`: Screenshot of the Digital Literacy Awareness Quiz.
-* `GF-response-sheet.png`: Screenshot of the linked Google Sheet for data tracking.
+### Folder:
+* [**Task 3**](./task-3-platforms)
 
 
 # TASK 04
@@ -62,9 +55,8 @@ This task demonstrates technical proficiency through competitive coding and clou
 ### Overview
 Effective digital communication is vital for academic and professional success. This task showcases my ability to draft formal correspondence and my commitment to maintaining a responsible social media presence.
 
-### Folder Contents
-* **`Email.pdf`**: 2 professional email drafts to a professor regarding a deadline, and seeking internships from companies 
-* **`social-media-checklist.md`**: A 10-point guide (Do's and Don'ts) for college students to maintain a clean digital shadow.
+### Folder:
+* [**Task 4**](./task-4-email-etiquette)
 
 ### Key Learnings
 * Mastering the structure of a formal email: Subject, Salutation, Body, and Sign-off.
@@ -75,10 +67,8 @@ Effective digital communication is vital for academic and professional success. 
 ### Overview
 As a Digital Ambassador, I have developed these resources to help my peers at VIT Bhopal recognize, avoid, and report common online threats. This task focuses on the intersection of social engineering and financial technology, specifically targeting UPI-based fraud.
 
-### Folder Contents
-Folder: task-5-cybercrime
-* **`casestudy.pdf`**: A detailed case study on UPI Payment Fraud. It explains the "Request Money" scam, outlining the step-by-step execution, typical targets, and the financial consequences for victims.
-* **`prevention-checklist.txt`**: A quick-reference guide containing 8 actionable tips for staying safe online, including specific advice on UPI safety and password hygiene.
+### Folder:
+[**Task 5**](./task-5-cybercrime)
 
 ### Key Takeaways
 * **The PIN Rule:** Never enter a UPI PIN to receive money; it is only for sending.
