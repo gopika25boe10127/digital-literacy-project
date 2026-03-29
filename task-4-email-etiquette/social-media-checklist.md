@@ -1,0 +1,26 @@
+# Digital Safety & Professionalism Guide
+
+A comprehensive checklist for maintaining a secure and professional digital footprint.
+
+---
+
+## Core Security Requirement
+The single most effective way to protect your digital identity is to **Enable Two-Factor Authentication (2FA)** on your email and social media accounts. This adds a critical layer of defense against unauthorized access.
+
+---
+
+## Social Media Checklist
+
+### The Do’s
+*   **Privacy First:** Set your profiles to private and regularly audit your follower lists.
+*   **Professional Branding:** Use a professional headshot and a clean bio that reflects your academic interests.
+*   **Build a Positive Shadow:** Share project milestones, certifications, and university achievements.
+*   **Fact-Check:** Verify the credibility of news or information before hitting the share button.
+*   **Double Down on 2FA:** Use two-factor authentication (2FA) on all platforms to prevent unauthorized access.
+
+### The Don’ts
+*   **Oversharing:** Don’t post your real-time location, home address, or sensitive documents like your Student ID.
+*   **Digital Conflict:** Don’t engage in "flame wars" or heated public arguments that could damage your reputation.
+*   **Policy Violations:** Don’t post content depicting illegal activities or violations of university policy.
+*   **Professional Venting:** Don’t vent about professors, internship coordinators, or peers on public feeds.
+*   **Suspicious Links:** Don’t click on suspicious links in DMs, even if they appear to come from friends.
