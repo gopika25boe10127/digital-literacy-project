@@ -14,7 +14,7 @@ As a Digital Ambassador, I designed a visual resource to educate my peers on the
 * **Tools:** Developed using **Canva** to ensure a professional and modern aesthetic.
 
 ### Folder Contents
-* `task-1-presentation` : Folder
+./task-1-presentation
 * `Infographic.png`: The final high-resolution design.
 
 
