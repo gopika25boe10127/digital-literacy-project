@@ -3,126 +3,90 @@ Digital literacy is the essential ability to navigate, evaluate, and create info
 
 # TASK 01
 
-Project Overview
+# Task 1: Digital Literacy Poster Design
 
-This folder has a guide to help students deal with the modern digital world. As more things move online students need to know about these skills to do well.
+### Overview
+As a Digital Ambassador, I designed a visual resource to educate my peers on the core pillars of digital literacy. The goal was to transform complex technical concepts into an accessible, engaging format for the university community.
 
-Task Details
+### Design Focus
+* **Clarity:** Using minimalist icons to represent data privacy and security.
+* **Hierarchy:** Highlighting "Survival Skills" like Email Etiquette and Online Safety.
+* **Tools:** Developed using **Canva** to ensure a professional and modern aesthetic.
 
-Role: Student Digital Ambassador
+### Folder Contents
+* `task-1-presentation` : Folder
+* `Infographic.png`: The final high-resolution design.
 
-Objective: Make an effective infographic, about Digital Literacy.
-
-Tool Used: Canva
-
-Key Topics Covered:
-What is Digital Literacy: It is not just looking at things but also thinking about what you see.
-Being Professional Online: Making a LinkedIn profile and taking care of what you do.
-Email Rules: How to write emails to teachers and people who hire.
-document given in: task-1-poster.jpg
 
 # TASK 02
 
-Portfolio Overview
-The objective of this task is to build a verified digital footprint across three major platforms. These profiles serve as a central hub for showcasing academic progress, technical projects, and professional networking within the bioengineering and software development sectors.
+# Task 2: Foundational Portfolio Setup
 
-Platform Selection
-GitHub: 
-Used for version control and hosting open-source code.
-It serves as a live repository for academic projects and software implementation.
-LinkedIn: 
-Used for professional networking and career development.
-It functions as a digital resume to connect with industry professionals and internship coordinators.
-Kaggle:
-Used for data science and machine learning competitions.
-It provides a platform to practice data analysis and participate in community-driven research.
+### Overview
+This task involved establishing a professional digital presence across three industry-standard platforms. As a Bioengineering student, these profiles serve as a bridge between my academic research and global career opportunities.
 
-Directory Structure
-The screenshots of the completed profiles are located in the following directory: task-2-portfolio/
-https://github.com/gopika25boe10127
-https://www.linkedin.com/in/gopika-prasanth-menon-0b46b73ba/
-https://www.kaggle.com/gopikapmenon
+### Platform Links
+* **LinkedIn:** https://www.linkedin.com/in/gopika-prasanth-menon-0b46b73ba/ — My professional networking hub.
+* **GitHub:** https://github.com/gopika25boe10127 — Repository for my bio-coding projects.
+* **Kaggle:** https://www.kaggle.com/gopikapmenon — Platform for biological data science.
 
-All the profile given in: task-2-portfolio.pdf
+### Folder Contents
+* `Linkedin.png`: Screenshot of the optimized professional profile.
+* `GitHub.png`: Screenshot of the repository setup.
+* `Kaggle.png`: Screenshot of the data science account.
+
+* All the profile given in: task-2-portfolio/
+
+  
 
 # TASK 03
 
-PART A: 
-Coding Practice
-Platform: HackerRank
-Challenge: Python Introduction - Say Hello World With Python
-Status: Successfully Completed
-Artifact: task-3-platforms/hackerrank_completion.png
-This exercise confirms the ability to execute code within a competitive programming environment and verify output against hidden test cases.
+# Task 3: Coding & Collaboration Platforms
 
-PART B: 
-Google Workspace Collaboration
-Project: Digital Literacy Awareness Quiz
-Form Link: https://docs.google.com/forms/d/e/1FAIpQLScsLNizRLoRkpo5lEnAjMwAsjCYUJ2rCayzZdMl42h2v4oZYA/viewform?usp=header 
-Screenshots given in: task-3-platforms.pdf
+### Overview
+This task demonstrates technical proficiency through competitive coding and cloud-based teamwork tools. I focused on Python for bio-logic and Google Workspace for academic collaboration.
+
+### Project Links
+* **Digital Literacy Awareness Quiz:** https://docs.google.com/forms/d/e/1FAIpQLScsLNizRLoRkpo5lEnAjMwAsjCYUJ2rCayzZdMl42h2v4oZYA/viewform — A 5-question awareness tool for batchmates.
+
+### Folder Contents
+* `HackerRank.png`: Verification of completed coding challenges.
+* `Google-Form.png`: Screenshot of the Digital Literacy Awareness Quiz.
+* `GF-response-sheet.png`: Screenshot of the linked Google Sheet for data tracking.
+
 
 # TASK 04
 
-Part A: Professional Email Correspondence
-Two professional email drafts have been prepared and stored in the following directory: task-4-email-etiquette.pdf
-Email 1: Extension Request to Professor
-Context: Requesting an assignment deadline extension due to unforeseen academic or technical constraints.
-Key Elements: Specific subject line including course code, formal salutation, clear justification, proposed new deadline, and professional sign-off.
-Email 2
-Internship Inquiry
-Context: Expressing interest in a summer internship opportunity to an industry coordinator.
-Key Elements: Value proposition, mention of specific department interests, attachment of curriculum vitae, and a call to action for further discussion.
+# Task 4: Professional Communication & Etiquette
 
+### Overview
+Effective digital communication is vital for academic and professional success. This task showcases my ability to draft formal correspondence and my commitment to maintaining a responsible social media presence.
 
-Part B: 
-Social Media Checklist
-A comprehensive guide for college students to maintain a professional digital footprint is available in:
-task-4-social-media-checklist.txt
+### Folder Contents
+* **`Email.pdf`**: 2 professional email drafts to a professor regarding a deadline, and seeking internships from companies 
+* **`social-media-checklist.md`**: A 10-point guide (Do's and Don'ts) for college students to maintain a clean digital shadow.
+
+### Key Learnings
+* Mastering the structure of a formal email: Subject, Salutation, Body, and Sign-off.
+* Understanding the long-term impact of "digital footprints" on career prospects.
 
 # TASK 05
 
-Part A: 
-Cybercrime Case Study
+### Overview
+As a Digital Ambassador, I have developed these resources to help my peers at VIT Bhopal recognize, avoid, and report common online threats. This task focuses on the intersection of social engineering and financial technology, specifically targeting UPI-based fraud.
 
-I took a look at a specific online threat and wrote about it in the following directory:
+### Folder Contents
+Folder: task-5-cybercrime
+* **`casestudy.pdf`**: A detailed case study on UPI Payment Fraud. It explains the "Request Money" scam, outlining the step-by-step execution, typical targets, and the financial consequences for victims.
+* **`prevention-checklist.txt`**: A quick-reference guide containing 8 actionable tips for staying safe online, including specific advice on UPI safety and password hygiene.
 
-task-5-casestudy.pdf
+### Key Takeaways
+* **The PIN Rule:** Never enter a UPI PIN to receive money; it is only for sending.
+* **Psychological Manipulation:** Scammers often use a false sense of urgency to bypass common sense.
+* **Immediate Action:** The "Golden Hour" after a fraud occurs is the most critical time for reporting to recover funds.
 
-I focused on UPI and Online Payment Fraud.
+### Emergency Reporting Channels
+If you or someone you know falls victim to a digital scam, use the following official channels immediately:
 
-This is when someone takes money from your bank account without permission using the UPI system.
-
-This usually happens when someone tricks you into thinking you are getting money. Really they are taking it. They might send you a message saying you won a prize or they might use a bad QR code.
-
-The people who are most likely to be targeted are students and young professionals in India who use wallets and payment apps.
-
-A victim of this crime you could lose money away and the bad people might also get into your bank account. This can be very stressful
-.
-
-Part B:
-Stay Safe Online Checklist
-
-I made a list of ways for college students to stay safe online. You can find it in:
-
-task-5-prevention-checklist.txt
-
-Here are some important things to do to stay safe:
-
-1. Enable Two-Factor Authentication on your email and social media accounts.
-
-2. Use a hard-to-guess password for each account and change them every few months.
-
-3. When using UPI, never enter your PIN to get money. You only need your PIN to send money or check your balance.
-
-4.  When using UPI make sure you know who you are sending money to before you authorize the transaction.
-
-5. Do not click on links that are shortened or that people send you in messages that you did not ask for.
-
-6. Do not use Wi-Fi to do your banking or to get into sensitive school websites.
-
-7. Check which apps have access to your camera, contacts or location and take away that access if they do not need it.
-
-8. Keep your device and antivirus software up to date so you can fix any security problems.
-
-
-
+* **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
+* **National Helpline:** **1930** 
