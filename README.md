@@ -30,7 +30,7 @@ This task involved establishing a professional digital presence across three ind
 * **Kaggle:** https://www.kaggle.com/gopikapmenon — Platform for biological data science.
 
 ### Folder:
-* [**Task 2**](./task-2-portfolios)
+* [**Task 2**](./task-2-portfolio)
 
 
 
