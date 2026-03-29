@@ -3,7 +3,7 @@ Digital literacy is the essential ability to navigate, evaluate, and create info
 
 # TASK 01
 
-# Task 1: Digital Literacy Poster Design
+# Digital Literacy Poster Design
 
 ### Overview
 As a Digital Ambassador, I designed a visual resource to educate my peers on the core pillars of digital literacy. The goal was to transform complex technical concepts into an accessible, engaging format for the university community.
@@ -19,7 +19,7 @@ As a Digital Ambassador, I designed a visual resource to educate my peers on the
 
 # TASK 02
 
-# Task 2: Foundational Portfolio Setup
+# Foundational Portfolio Setup
 
 ### Overview
 This task involved establishing a professional digital presence across three industry-standard platforms. As a Bioengineering student, these profiles serve as a bridge between my academic research and global career opportunities.
@@ -36,7 +36,7 @@ This task involved establishing a professional digital presence across three ind
 
 # TASK 03
 
-# Task 3: Coding & Collaboration Platforms
+# Coding & Collaboration Platforms
 
 ### Overview
 This task demonstrates technical proficiency through competitive coding and cloud-based teamwork tools. I focused on Python for bio-logic and Google Workspace for academic collaboration.
@@ -50,7 +50,7 @@ This task demonstrates technical proficiency through competitive coding and clou
 
 # TASK 04
 
-# Task 4: Professional Communication & Etiquette
+# Professional Communication & Etiquette
 
 ### Overview
 Effective digital communication is vital for academic and professional success. This task showcases my ability to draft formal correspondence and my commitment to maintaining a responsible social media presence.
@@ -63,6 +63,8 @@ Effective digital communication is vital for academic and professional success. 
 * Understanding the long-term impact of "digital footprints" on career prospects.
 
 # TASK 05
+
+# Cybercrime Awareness & Prevention
 
 ### Overview
 As a Digital Ambassador, I have developed these resources to help my peers at VIT Bhopal recognize, avoid, and report common online threats. This task focuses on the intersection of social engineering and financial technology, specifically targeting UPI-based fraud.
